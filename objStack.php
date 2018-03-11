@@ -5,7 +5,7 @@ class objStack {
 	public $STACK = NULL;
 
 	/**
-	 * @param array $elemnts An array of objects.
+	 * @param array $elements An array of objects.
 	 * @param boolean $obj_check True by default to check if each value of first paramenter if object.
 	 *
 	 * @return Returns FALSE if obj_check is TRUE and the passed array is not filled with objects
