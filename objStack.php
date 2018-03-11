@@ -6,7 +6,7 @@ class objStack {
 
 	/**
 	 * @param array $elements An array of objects.
-	 * @param boolean $obj_check True by default to check if each value of first paramenter if object.
+	 * @param boolean $obj_check True by default to check if each value of first paramenter is object.
 	 *
 	 * @return Returns FALSE if obj_check is TRUE and the passed array is not filled with objects
 	 *
